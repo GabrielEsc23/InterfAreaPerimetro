@@ -20,7 +20,7 @@ La aplicación cuenta con una interfaz gráfica interactiva diseñada con Java S
 ---
 
 ## **Captura de pantalla**
-![Captura de la Interfaz](ruta/a/tu/captura.png)
+!https://github.com/GabrielEsc23/InterfAreaPerimetro/blob/master/interfaz_area_peri.png
 
 ---
 
