@@ -13,7 +13,7 @@ La aplicación cuenta con una interfaz gráfica interactiva diseñada con Java S
 ---
 
 ## **Características**
-- **Interfaz gráfica**: calcular el área y perímetro de las figuras por medio de un solo clic,en el boton "calcular".
+- **Interfaz gráfica**: calcular el área y perímetro de las figuras por medio de un solo clic en el boton "calcular".
 - **Resultados**: muestra el área y el perímetro en tiempo real después de proporcionar los datos requeridos.
 
 ---
